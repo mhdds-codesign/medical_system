@@ -1,0 +1,6 @@
+PyQt5>=5.15.2
+mysql-connector-python>=8.0.30,<8.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.5.0
