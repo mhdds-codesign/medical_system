@@ -153,7 +153,7 @@ pip install -r requirements.txt
 > **مشخصات پیش‌فرض اتصال در کدها:**
 > - **Host:** `localhost`
 > - **User:** `root`
-> - **Password:** `15483`
+> - **Password:** `123456`
 > - **Database:** `medical`
 >
 > *(چنانچه رمز ریشه MySQL سیستم شما متفاوت است، می‌توانید پسورد را در MySQL تنظیم کنید یا در بالای فایل‌های پروژه در متغیر `DB_CONFIG` به‌روز نمایید).*
